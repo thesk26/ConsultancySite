@@ -1,0 +1,54 @@
+Create a fully responsive one-page corporate website using React + JavaScript for a consultancy firm named “Shreevariya Consultancy Services”.
+
+Company Overview:
+Shreevariya Consultancy Services specializes in property, construction, and commercial project consultancy — providing expert guidance in planning, development, approvals, architecture coordination, and project management.
+
+Design Style:
+- Corporate, professional, and minimal
+- Color palette: white, gray, blue with subtle gold accents
+- Pictorial and visual layout with modern icons and smooth animations
+- Use Framer Motion for scroll animations
+
+Page Structure (One-Page Layout):
+1. Home Section:
+   - Full-screen image or video background (property/construction theme)
+   - Company name & tagline: “Building Visions. Guiding Growth.”
+   - “Get in Touch” button that scrolls to Contact section
+
+2. About Section:
+   - Short intro about the company’s mission and expertise
+   - Two or three columns highlighting Property Consulting, Construction Management, Commercial Solutions
+
+3. Services Section:
+   - Cards for each core service:
+     - Project Feasibility & Planning
+     - Real Estate Advisory
+     - Construction Supervision
+     - Commercial Property Consultancy
+     - Government Approvals & Liaison
+
+4. Projects / Portfolio Section:
+   - Grid gallery of past projects (use placeholder images from Unsplash)
+   - Hover animation showing project name and category
+
+5. Testimonials Section:
+   - Carousel with 3–4 client testimonials (placeholder data)
+
+6. Team Section:
+   - Professional layout for team members (photo, name, role)
+
+7. Contact Section:
+   - Contact form with Name, Email, Phone, and Message
+   - Embedded Google Map placeholder
+   - Company address, phone, and email
+
+8. Footer:
+   - Logo, copyright
+   - Quick navigation links (Home, About, Services, Contact)
+
+Output:
+- Provide full React code for the entire one-page layout
+- Ensure professional, clean, corporate design — not generic
+
+Goal:
+A modern, pictorial, minimal one-page website that conveys trust, expertise, and professionalism in property and construction consultancy.
